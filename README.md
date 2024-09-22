@@ -3,10 +3,11 @@
 Clone the Repository:
 
 Open your terminal and run:
-bash ```
+ ```
 git clone <repository-url>
 cd <repository-folder>
-```
+
+
 Install Server Dependencies:
 
 Navigate to the server directory:
