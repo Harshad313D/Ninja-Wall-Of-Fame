@@ -6,7 +6,7 @@ Open your terminal and run:
  ```
 git clone <repository-url>
 cd <repository-folder>
-
+```
 
 Install Server Dependencies:
 
