@@ -41,7 +41,7 @@ cd server
 ```
 npm run start
 ```
-## The server will run on http://localhost:3000.
+## The server will run on localhost (http://localhost:3000).
 ## Running the React App
 ### Start the React Application:
 #### Open a new terminal window and navigate to the client directory:
@@ -52,7 +52,7 @@ cd client
 ```
 npm run dev
 ```
-## The React app will run on http://localhost:5173.
+## The React app will run on  localhost (http://localhost:3000).
 ## API Endpoints
 ### To fetch ninja data, make a GET request to:
 ```
